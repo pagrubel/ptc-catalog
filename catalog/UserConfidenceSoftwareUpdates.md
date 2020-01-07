@@ -22,3 +22,4 @@ when we publish updates.
 
 ## Comments
 - 2 Can be implemented using Github issues, Jira or other means to be able to follow what each release includes. 
+- 3 See the [Performance Regression Testing card](https://github.com/bssw-psip/ptc-catalog/blob/master/catalog/PerformanceRegressionTesting.md)
