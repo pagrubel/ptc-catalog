@@ -13,7 +13,7 @@ when we publish updates.
 
 | Score         | Description |
 | :-------------: | :------------- |
-| 0 | Communication for update notifications are poor and do not always include behavior or performance changes. Users are not able to easily return to a prior version of the application after an update. |
+| 0 | There is poor communication about application updates which do not always include behavior or performance changes. Users are not able to easily return to a prior version of the application after an update. |
 | 1 | Documentation of changes are updated as changes or features are implemented including changes in behavior. |
 | 2 | A database of updates and changes has been implemented and is continually updated. |
 | 3 | As changes are made to the code base, application performance changes are documented for the release notes. |
